@@ -5,15 +5,16 @@ import SingleQuestion from './SingleQuestion.jsx'
 const SingleCategory = ({
     data,
     setData,
-    selectedContentIndex,
+    selectedSubjectIndex,
+    selectedSubTopicIndex,
     selectedCategoryIndex,
     searchValue,
 }) => {
     const isDarkMode = data.data.header.darkMode
     const current =
-        data.data.content[selectedContentIndex].categoryList[
-            selectedCategoryIndex
-        ]
+        data.data.content[selectedSubjectIndex].subjectContent[
+            selectedSubTopicIndex
+        ].categoryList[selectedCategoryIndex]
     const categoryId = current.categoryId
     const categoryName = current.categoryName
     const listOfQuestion = current.questionList

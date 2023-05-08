@@ -18,8 +18,15 @@ const Content = ({
     const isDarkMode = data.data.header.darkMode
     const listOfTopics = data.data.content
     const listOfSubjectSubTopics = data.data.content[selectedSubjectIndex].subjectContent
-    const listOfCategory = data.data.content[selectedContentIndex].categoryList
-    console.log(selectedSubjectIndex)
+    const listOfCategoryInSubTopics =
+        data.data.content[selectedSubjectIndex].subjectContent[
+            selectedContentIndex
+        ].categoryList
+    // console.log('hello')
+    console.log(isHomeScreen)
+    console.log(isTopicScreen)
+    // isHomeScreen = false
+    // isTopicScreen = false
     return (
         <Flex
             className={'content'}
@@ -82,17 +89,8 @@ const Content = ({
                     </Grid>
                 </>
             ) : (
-                listOfCategory.map((categoryData, index) => {
-                    return (
-                        <SingleCategory
-                            data={data}
-                            setData={setData}
-                            selectedContentIndex={selectedContentIndex}
-                            selectedCategoryIndex={index}
-                            key={index}
-                            searchValue={searchValue}
-                        />
-                    )
+                listOfCategoryInSubTopics.map((categoryData, index) => {
+                    return <h1 key={index}>hello world </h1>
                 })
             )}
         </Flex>

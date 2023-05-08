@@ -17,12 +17,14 @@ const SingleTopic = ({ data, SubjectIndex, selectedContentIndex }) => {
     const completedQuestion = current.contentCompletedQuestions
     const totalQuestion = current.contentTotalQuestions
     const completedPercentage = (completedQuestion / totalQuestion) * 100
-    const topicLink = current.contentPath
+
+    const topicLink = `${data.data.content[SubjectIndex].SubjectPath}${current.contentPath}`
+
     const isStarted = current.contentCompletedQuestions !== 0
     const contentHeading = current.contentHeading
     const contentSubHeading = current.contentSubHeading
 
-    console.log(current)
+    console.log(topicLink)
 
     return (
         <Link to={topicLink}>

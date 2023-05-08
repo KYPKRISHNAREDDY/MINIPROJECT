@@ -431,8 +431,8 @@ const ultimateData = {
                 SubjectCompletedTopics: 0,
                 subjectContent: [
                     {
-                        contentPath: '/DSA/basics',
-                        contentHeading: 'Aadarsh',
+                        contentPath: '/basics',
+                        contentHeading: 'Basics',
                         contentSubHeading: '',
                         contentUserNotes: '',
                         contentTotalQuestions: 30,
@@ -923,7 +923,7 @@ const ultimateData = {
                         ],
                     },
                     {
-                        contentPath: '/DSA/sorting_techniques',
+                        contentPath: '/sorting_techniques',
                         contentHeading: 'Sorting Techniques',
                         contentSubHeading: '',
                         contentUserNotes: '',
@@ -1048,7 +1048,7 @@ const ultimateData = {
                         ],
                     },
                     {
-                        contentPath: '/DSA/array',
+                        contentPath: '/array',
                         contentHeading: 'Arrays',
                         contentSubHeading: 'Easy -> Medium -> Hard',
                         contentUserNotes: '',
@@ -1763,7 +1763,7 @@ const ultimateData = {
                         ],
                     },
                     {
-                        contentPath: '/DSA/binary_search',
+                        contentPath: '/binary_search',
                         contentHeading: 'Binary Search',
                         contentSubHeading: '1D, 2D Arrays, Space Search',
                         contentUserNotes: '',
@@ -2284,7 +2284,7 @@ const ultimateData = {
                         ],
                     },
                     {
-                        contentPath: '/DSA/strings_part_1',
+                        contentPath: '/strings_part_1',
                         contentHeading: 'Strings',
                         contentSubHeading: 'Basic and Medium',
                         contentUserNotes: '',
@@ -2544,7 +2544,7 @@ const ultimateData = {
                         ],
                     },
                     {
-                        contentPath: '/DSA/linked_list',
+                        contentPath: '/linked_list',
                         contentHeading: 'Linked List',
                         contentSubHeading: 'Single/Double LL, Medium, Hard',
                         contentUserNotes: '',
@@ -3077,7 +3077,7 @@ const ultimateData = {
                         ],
                     },
                     {
-                        contentPath: '/DSA/recursion',
+                        contentPath: '/recursion',
                         contentHeading: 'Recursion',
                         contentSubHeading: 'Pattern Wise',
                         contentUserNotes: '',
@@ -3490,7 +3490,7 @@ const ultimateData = {
                         ],
                     },
                     {
-                        contentPath: '/DSA/bit_manipulation',
+                        contentPath: '/bit_manipulation',
                         contentHeading: 'Bit Manipulation',
                         contentSubHeading: 'Concepts & Problems',
                         contentUserNotes: '',
@@ -3791,7 +3791,7 @@ const ultimateData = {
                         ],
                     },
                     {
-                        contentPath: '/DSA/stack_n_queue',
+                        contentPath: '/stack_n_queue',
                         contentHeading: 'Stack & Queue',
                         contentSubHeading: 'Pre-In-Post Fix, Monotonic Stack',
                         contentUserNotes: '',
@@ -4325,7 +4325,7 @@ const ultimateData = {
                         ],
                     },
                     {
-                        contentPath: '/DSA/two_pointers',
+                        contentPath: '/two_pointers',
                         contentHeading: 'Two Pointers',
                         contentSubHeading: 'Combined Problems',
                         contentUserNotes: '',
@@ -4536,7 +4536,7 @@ const ultimateData = {
                         ],
                     },
                     {
-                        contentPath: '/DSA/heaps',
+                        contentPath: '/heaps',
                         contentHeading: 'Heaps',
                         contentSubHeading: 'Learning, Medium, Hard Problems',
                         contentUserNotes: '',
@@ -4818,7 +4818,7 @@ const ultimateData = {
                         ],
                     },
                     {
-                        contentPath: '/DSA/greedy',
+                        contentPath: '/greedy',
                         contentHeading: 'Greedy Algorithms',
                         contentSubHeading: 'Easy -> Medium -> Hard',
                         contentUserNotes: '',
@@ -5084,7 +5084,7 @@ const ultimateData = {
                         ],
                     },
                     {
-                        contentPath: '/DSA/binary_tree',
+                        contentPath: '/binary_tree',
                         contentHeading: 'Binary Tree',
                         contentSubHeading:
                             'Traversals, Medium and Hard Problems',
@@ -5789,7 +5789,7 @@ const ultimateData = {
                         ],
                     },
                     {
-                        contentPath: '/DSA/binary_search_tree',
+                        contentPath: '/binary_search_tree',
                         contentHeading: 'Binary Search Tree',
                         contentSubHeading: 'Concept and Problems',
                         contentUserNotes: '',
@@ -6076,7 +6076,7 @@ const ultimateData = {
                         ],
                     },
                     {
-                        contentPath: '/DSA/graphs',
+                        contentPath: '/graphs',
                         contentHeading: 'Graphs',
                         contentSubHeading: 'Concepts and Problems',
                         contentUserNotes: '',
@@ -6943,7 +6943,7 @@ const ultimateData = {
                         ],
                     },
                     {
-                        contentPath: '/DSA/dp',
+                        contentPath: '/dp',
                         contentHeading: 'Dynamic Programming',
                         contentSubHeading: 'Patterns and Problems',
                         contentUserNotes: '',
@@ -7982,7 +7982,7 @@ const ultimateData = {
                         ],
                     },
                     {
-                        contentPath: '/DSA/tries',
+                        contentPath: '/tries',
                         contentHeading: 'Tries',
                         contentSubHeading: 'Concepts and Problems',
                         contentUserNotes: '',
@@ -8124,7 +8124,7 @@ const ultimateData = {
                         ],
                     },
                     {
-                        contentPath: '/DSA/strings_part_2',
+                        contentPath: '/strings_part_2',
                         contentHeading: 'Strings',
                         contentSubHeading:
                             'Hard Problems and Standard Algorithms',
@@ -8281,7 +8281,7 @@ const ultimateData = {
                 SubjectCompletedTopics: 0,
                 subjectContent: [
                     {
-                        contentPath: '/OS/basics',
+                        contentPath: '/basics',
                         contentHeading: 'Basics',
                         contentSubHeading: '',
                         contentUserNotes: '',
@@ -8773,7 +8773,7 @@ const ultimateData = {
                         ],
                     },
                     {
-                        contentPath: '/OS/sorting_techniques',
+                        contentPath: '/sorting_techniques',
                         contentHeading: 'Sorting Techniques',
                         contentSubHeading: '',
                         contentUserNotes: '',
@@ -8908,7 +8908,7 @@ const ultimateData = {
                 SubjectCompletedTopics: 0,
                 subjectContent: [
                     {
-                        contentPath: '/DBMS/basics',
+                        contentPath: '/basics',
                         contentHeading: 'Basics',
                         contentSubHeading: '',
                         contentUserNotes: '',
@@ -9400,7 +9400,7 @@ const ultimateData = {
                         ],
                     },
                     {
-                        contentPath: '/DBMS/sorting_techniques',
+                        contentPath: '/sorting_techniques',
                         contentHeading: 'Sorting Techniques',
                         contentSubHeading: '',
                         contentUserNotes: '',
@@ -9535,7 +9535,7 @@ const ultimateData = {
                 SubjectCompletedTopics: 0,
                 subjectContent: [
                     {
-                        contentPath: '/CN/basics',
+                        contentPath: '/basics',
                         contentHeading: 'Basics',
                         contentSubHeading: '',
                         contentUserNotes: '',
@@ -10027,7 +10027,7 @@ const ultimateData = {
                         ],
                     },
                     {
-                        contentPath: '/CN/sorting_techniques',
+                        contentPath: '/sorting_techniques',
                         contentHeading: 'Sorting Techniques',
                         contentSubHeading: '',
                         contentUserNotes: '',
